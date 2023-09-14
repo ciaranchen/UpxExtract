@@ -1,0 +1,16 @@
+{
+  "name": "upx_extract",
+  "version": "1.0.0",
+  "description": "解压upx文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciaranchen",
+  "license": "MIT",
+  "dependencies": {
+    "asar": "^3.2.0",
+    "compressing": "^1.10.0",
+    "zlib": "^1.0.5"
+  }
+}
